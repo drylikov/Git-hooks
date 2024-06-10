@@ -61,8 +61,3 @@ will be the only hook that is executed.
 > &#42;Caveat: The package manager needs to be npm compliant in terms of environment variables.
 > Worst case, define the environment variables `npm_node_execpath` (node binary) and `npm_execpath` (package manager entry point)
 > as environment variables prior to installing.
-
-# License
-Copyright &copy; 2021 by Vercel, Inc.
-
-Released under the [MIT License](LICENSE).
