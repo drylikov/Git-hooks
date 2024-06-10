@@ -9,7 +9,7 @@ No nonsense [Git hook](https://git-scm.com/docs/githooks) management.
 Install this module, preferably as a dev-dependency:
 
 ```console
-yarn add --dev @vercel/git-hooks
+yarn add --dev @drylikov/git-hooks
 ```
 
 That's it. You can now use the module in two ways:
