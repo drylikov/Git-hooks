@@ -1,0 +1,19 @@
+{
+  "name": "@vercel/git-hooks",
+  "version": "1.0.0",
+  "description": "No nonsense Git hook management",
+  "repository": "vercel/git-hooks",
+  "author": "Josh Junon <josh@junon.me>",
+  "license": "MIT",
+  "main": "null.js",
+  "scripts": {
+    "install": "node ./install.js",
+    "uninstall": "node ./uninstall.js"
+  },
+  "files": [
+    "install.js",
+    "uninstall.js",
+    "git-dir.js",
+    "null.js"
+  ]
+}
