@@ -1,4 +1,4 @@
-# @vercel/git-hooks
+Git-hooks
 
 No nonsense [Git hook](https://git-scm.com/docs/githooks) management.
 
